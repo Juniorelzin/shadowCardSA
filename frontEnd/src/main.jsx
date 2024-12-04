@@ -1,22 +1,3 @@
-// // index.js
-// import { createRoot } from 'react-dom/client';
-// import './index.css';
-// import { RouterProvider } from 'react-router-dom';
-// import router from './router/routes.jsx';  // Certifique-se de que o caminho esteja correto
-// import { GlobalContextProvider } from './contexts/GlobalContext.jsx';
-
-// createRoot(document.getElementById('root')).render(
-//   <GlobalContextProvider>
-//     <RouterProvider router={router} />
-//   </GlobalContextProvider>
-// );
-
-
-
-
-
-
-// index.js
 import { createRoot } from 'react-dom/client';
 import './index.css';
 import { BrowserRouter, Routes, Route, Navigate } from 'react-router-dom'; // Corrigido
@@ -41,13 +22,14 @@ createRoot(document.getElementById('root')).render(
         <Routes>
           <Route path="/cadastro" element={<Cadastro />} />
           <Route path="/" element={<Login />} />
-          <Route path="/batalhas" element={<Batalhas />} />
-          <Route path="/telaBatalha" element={<TelaBatalha />} />
-          <Route path="/caminho" element={<Caminho />} />
+          
+          
 
           <Route element={<ProtectedRoute />}>
-            
+
             <Route path="/caminho" element={<Caminho />} />
+            <Route path="/batalhas" element={<Batalhas />} />
+            <Route path="/telaBatalha" element={<TelaBatalha />} />
             <Route path="/perfil" element={<Perfil />} />
             <Route path="/decks" element={<Decks />} />
             <Route path="/loja" element={<Loja />} />
@@ -60,5 +42,4 @@ createRoot(document.getElementById('root')).render(
     </AuthProvider>
   </GlobalContextProvider>
 );
-
 
