@@ -14,10 +14,12 @@ Shadow Duel é um jogo de RPG de batalha de cartas em que os jogadores coleciona
 Protótipos das páginas para autenticação de usuários, permitindo login com e-mail e senha ou criação de uma nova conta por meio de um formulário básico.
 
 <div class="Cadastro" align="center">
-  <img src="" width="200px"/>
+  <img src="![image](https://github.com/user-attachments/assets/3eb45450-0136-43b9-9991-406e833bf11b)
+" width="2000px"/>
 </div>
 
 <div class="Login" align="center">
-  <img src="" width="200px"/>
+  <img src="![image](https://github.com/user-attachments/assets/d3e898ef-fced-4553-8d0e-a4d542f9b243)
+" width="2000px"/>
 </div>
 
