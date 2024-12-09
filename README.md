@@ -50,23 +50,28 @@ As telas desenvolvidas no protótipo incluem:
 
 Caminho: Permite ao jogador escolher seu deck inicial, que será utilizado nas batalhas.
 
-<div class="Caminho" align="center"> <img src="" width="800px"/> </div>
+<div class="Caminho" align="center"> <img src="https://github.com/luccasnoschang/ShadowDuel/blob/main/src/assets/images/Escolher%20o%20caminho%20(3).png" width="800px"/> </div>
+<br>
 
 Batalhas: Uma espécie de mapa onde o jogador seleciona um deck para batalhar.
 
-<div class="Batalhas" align="center"> <img src="" width="800px"/> </div>
+<div class="Batalhas" align="center"> <img src="https://github.com/luccasnoschang/ShadowDuel/blob/main/src/assets/images/TelaBatalhas.png" width="800px"/> </div>
+<br>
 
  Perfil: Mostra o nome do jogador, a quantidade de moedas e os decks adquiridos.
 
-<div class="Perfil" align="center"> <img src="" width="800px"/> </div>
+<div class="Perfil" align="center"> <img src="https://github.com/luccasnoschang/ShadowDuel/blob/main/src/assets/images/TelaPerfil.png" width="800px"/> </div>
+<br>
 
 Decks: Lista todos os decks comprados, incluindo o inicial, e exibe as cartas que cada deck contém.
 
-<div class="Decks" align="center"> <img src="" width="800px"/> </div>
+<div class="Decks" align="center"> <img src="https://github.com/luccasnoschang/ShadowDuel/blob/main/src/assets/images/TelaDecks.png" width="800px"/> </div>
+<br>
 
 Loja: Oferece a opção de comprar mais cartas e decks, além do inicial. Os decks disponíveis incluem Goblin, Mago, Esqueleto e Guerreiro.
 
-<div class="Loja" align="center"> <img src="" width="800px"/> </div>
+<div class="Loja" align="center"> <img src="https://github.com/luccasnoschang/ShadowDuel/blob/main/src/assets/images/TelaLoja.png" width="800px"/> </div>
+<br>
 
 <hr>
 
