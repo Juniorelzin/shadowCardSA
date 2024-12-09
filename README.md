@@ -13,7 +13,7 @@ Shadow Duel é um jogo de RPG de batalha de cartas em que os jogadores coleciona
 
 ### Tópicos
 - [Equipe e Tema](###equipe)  
-- [Protótipo Login e Cadastro de Usuário](##protótipo-login-e-cadastro-usuário)  
+- [Protótipo Login e Cadastro de Usuário](##protótipo-login-e-cadastro-usuário-(sprint-01))  
 - [Protótipo de Telas dos Requisitos Refatorados](#protótipo-de-telas-dos-requisitos-refatorados)  
 - [Protótipo das Telas](#protótipo-das-telas)  
 - [Implementação Real da Tela de Cadastro e Login](#implementação-real-da-tela-de-cadastro-e-login)  
