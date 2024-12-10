@@ -92,11 +92,15 @@ As telas de Caminho e Loja foram concluídas com interatividade para o usuário 
 
 - Caminho: Permite ao jogador selecionar o deck inicial para batalhar.
 
-<div align="center"> <img src="" width="800px"/> </div>
-  
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/552596e0-d2d5-449e-b3a4-d64e90b14748" width="200px"/>
+</div>
+
 - Loja: Disponibiliza cartas e decks adicionais para compra.
 
-<div align="center"> <img src="" width="800px"/> </div>
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/cc6c11a6-62c8-49a2-95f7-3d623e7462b8" width="200px"/>
+</div>
 
 <hr>
 
@@ -110,28 +114,43 @@ As telas de Perfil e Decks foram concluidas com apresentação de dados aos usu�
 
 - Decks: Mostra os decks disponíveis e as cartas pertencentes a cada um deles.
 
-<div align="center"> <img src="" width="1000px"/> </div>
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/d0485d2a-c21c-4d12-ad1f-10b249493883" width="200px"/>
+</div>
+
+<hr>
+
+## Tela de Batalha
+
+Aqui temos a nossa tela de batalha. O jogo funciona com uma grade 3 por 3, onde o Jogador batalha contra a maquina, para ver qual dos jogadores tem a maior habilidade. Cada batalha tem 3 rounds, e vence o round, o que tiver a carta mais forte em mãos naquele momento.
+
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/f27828ce-cbd6-4284-9a96-75b362fe2040" width="200px"/>
+</div>
 
 <hr>
 
 # Requisitos para Instalação
 
-1. Clone o repositório do front-end no seu terminal:
-
-```
-git clone https://github.com/Juniorelzin/Shadow_Duel_Front
-cd Shadow_Duel_Front/src
-code .
-npm install
-npm run dev
-```
-
-2. Clone o repositório do back-end:
+1. Clone o repositório do back-end:
 
 ```
 git clone https://github.com/Juniorelzin/Shadow_Duel_Back
 ```
 
-3. Execute o back-end utilizando a extensão `Spring Boot Extension Pack`.
+2. Execute o back-end utilizando a extensão `Spring Boot Extension Pack`.
 
+3. Clone o repositório do front-end no seu terminal:
+
+```
+git clone https://github.com/Juniorelzin/Shadow_Duel_Front
+```
+
+4. baixe as dependências e execute o projeto no seu terminal:
+
+```
+cd Shadow_Duel_Front/main/src
+npm install
+npm run dev
+```
 
