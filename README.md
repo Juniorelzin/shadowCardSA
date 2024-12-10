@@ -109,8 +109,7 @@ As telas de Caminho e Loja foram concluídas com interatividade para o usuário 
 As telas de Perfil e Decks foram concluidas com apresentação de dados aos usuários.
 
 - Perfil: Exibe informações do usuário, como nome, moedas disponíveis e decks adquiridos.
-
-<div align="center"> <img src="" width="1000px"/> </div>
+<div align="center"> <img src="https://github.com/user-attachments/assets/88d0efe0-91fd-4998-b931-6e1e3929effc" width="800px"/> </div>
 
 - Decks: Mostra os decks disponíveis e as cartas pertencentes a cada um deles.
 
